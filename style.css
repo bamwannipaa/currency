@@ -1,0 +1,36 @@
+h1 {
+    color: rgb(146, 87, 10);
+    margin-top: 1%;
+}
+
+input {
+    color: rgb(153, 6, 6);
+}
+
+p {
+    color: blueviolet;
+}
+
+#a {
+    color: rgb(41, 155, 19);
+}
+
+#s {
+    color: rgb(161, 163, 23);
+    margin-bottom: 2%;
+}
+
+body {
+    background-image: url(https://images.workpointtoday.com/workpointnews/2023/10/20101527/1697771723_98081_web-__________________-2-2.png);
+}
+form{
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    background-color: aqua;
+    margin-left: 32%;
+    margin-right: 32%;
+    
+}
+#c {
+    margin-top: 1%;
+}
